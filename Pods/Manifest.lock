@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.6.1)
+  - DZNEmptyDataSet (1.8.1)
+  - LicensePlist (3.21.1)
+  - SwiftGen (6.5.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - DZNEmptyDataSet
+  - LicensePlist
+  - SwiftGen
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DZNEmptyDataSet
+    - LicensePlist
+    - SwiftGen
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  LicensePlist: 79a442a64dab82abf1705a56e0c346c05c948a4d
+  SwiftGen: a6d22010845f08fe18fbdf3a07a8e380fd22e0ea
+
+PODFILE CHECKSUM: 7d93944f5903b44d357ec440bf6a1fa400365767
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module Pods_GithubViewer_GithubViewerUITests {
+  umbrella header "Pods-GithubViewer-GithubViewerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
